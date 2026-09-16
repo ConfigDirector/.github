@@ -4,7 +4,7 @@ Remote configuration and feature flags with productivity and safety built in.
 
 Every config has a type. Values can be validated against a JSON Schema before they are saved.
 A flag that is live in production can be renamed without breaking the clients that read it.
-Start for free, no card needed: https://www.configdirector.com
+Start free, no card: https://www.configdirector.com
 
 ## SDKs
 
@@ -36,9 +36,13 @@ code on the vendor-neutral API.
 [terraform-provider-configdirector](https://github.com/ConfigDirector/terraform-provider-configdirector)
 manages projects, environments, configs, and targeting rules from Terraform.
 
-## Get help
+## Questions and help
+
+[Discussions](https://github.com/orgs/ConfigDirector/discussions) is the place to ask questions
+about any SDK, the dashboard, or the API, and to share what you are building. Bug reports go to
+the issue tracker of the SDK's repository.
 
 - [Documentation](https://docs.configdirector.com)
 - [Quickstart](https://docs.configdirector.com/getting-started/quickstart)
-- [Support](https://www.configdirector.com/support)
+- [Support](https://www.configdirector.com/support) for account and billing questions
 - [@configdirector.com on Bluesky](https://bsky.app/profile/configdirector.com)
