@@ -24,6 +24,7 @@ Start free, no card: https://www.configdirector.com
 | .NET | [dotnet-sdks](https://github.com/ConfigDirector/dotnet-sdks) | [docs](https://docs.configdirector.com/sdks/server/dotnet) |
 | Python | [python-server-sdk](https://github.com/ConfigDirector/python-server-sdk) | [docs](https://docs.configdirector.com/sdks/server/python) |
 | Go | [go-sdks](https://github.com/ConfigDirector/go-sdks) | [docs](https://docs.configdirector.com/sdks/server/go) |
+| PHP | [`configdirector/server-sdk`](https://github.com/ConfigDirector/php-sdks) | [docs](https://docs.configdirector.com/sdks/server/php) |
 
 ## OpenFeature
 
@@ -41,6 +42,7 @@ so you can keep your code on the vendor-neutral API.
 | .NET | [`ConfigDirector.OpenFeature.ServerProvider`](https://github.com/ConfigDirector/dotnet-sdks) | [docs](https://docs.configdirector.com/sdks/openfeature/dotnet) |
 | Python | [`configdirector-openfeature-server-provider`](https://github.com/ConfigDirector/python-server-sdk) | [docs](https://docs.configdirector.com/sdks/openfeature/python) |
 | Go | [`github.com/ConfigDirector/go-sdks/configdirector-openfeature`](https://github.com/ConfigDirector/go-sdks) | [docs](https://docs.configdirector.com/sdks/openfeature/go) |
+| PHP | [`configdirector/openfeature-server-provider`](https://github.com/ConfigDirector/php-sdks) | [docs](https://docs.configdirector.com/sdks/openfeature/php) |
 
 ## CLI
 
