@@ -25,6 +25,7 @@ Start free, no card: https://www.configdirector.com
 | Python | [python-server-sdk](https://github.com/ConfigDirector/python-server-sdk) | [docs](https://docs.configdirector.com/sdks/server/python) |
 | Go | [go-sdks](https://github.com/ConfigDirector/go-sdks) | [docs](https://docs.configdirector.com/sdks/server/go) |
 | PHP | [`configdirector/server-sdk`](https://github.com/ConfigDirector/php-sdks) | [docs](https://docs.configdirector.com/sdks/server/php) |
+| Ruby | [`configdirector-server-sdk`](https://github.com/ConfigDirector/ruby-sdks) | [docs](https://docs.configdirector.com/sdks/server/ruby) |
 
 ## OpenFeature
 
@@ -43,6 +44,7 @@ so you can keep your code on the vendor-neutral API.
 | Python | [`configdirector-openfeature-server-provider`](https://github.com/ConfigDirector/python-server-sdk) | [docs](https://docs.configdirector.com/sdks/openfeature/python) |
 | Go | [`github.com/ConfigDirector/go-sdks/configdirector-openfeature`](https://github.com/ConfigDirector/go-sdks) | [docs](https://docs.configdirector.com/sdks/openfeature/go) |
 | PHP | [`configdirector/openfeature-server-provider`](https://github.com/ConfigDirector/php-sdks) | [docs](https://docs.configdirector.com/sdks/openfeature/php) |
+| Ruby | [`configdirector-openfeature-server-provider`](https://github.com/ConfigDirector/ruby-sdks) | [docs](https://docs.configdirector.com/sdks/openfeature/ruby) |
 
 ## CLI
 
